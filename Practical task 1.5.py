@@ -1,4 +1,4 @@
-revenue = int(input("Введите  прибыль : "))
+revenue = int(input("Введите  выручку : "))
 costs = int(input("Введите  издержки : "))
 
 if revenue - costs > 0:
