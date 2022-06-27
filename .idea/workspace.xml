@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="079c13eb-0c7c-47ca-8dde-50cbeb731976" name="Changes" comment="Practical task 1.2 на проверку" />
+    <list default="true" id="079c13eb-0c7c-47ca-8dde-50cbeb731976" name="Changes" comment="Practical task 1.3 на проверку">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,8 +67,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MOEX_Trades_test1" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -180,11 +182,11 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.main" />
-      <item itemvalue="Python.Practical task 1.1" />
       <item itemvalue="Python.Lesson 1" />
+      <item itemvalue="Python.Practical task 1.1" />
       <item itemvalue="Python.Practical task 1.2" />
       <item itemvalue="Python.Practical task 1.3" />
+      <item itemvalue="Python.main" />
     </list>
     <recent_temporary>
       <list>
@@ -282,7 +284,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656360379877</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Practical task 1.3 на проверку">
+      <created>1656361748897</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1656361748897</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -316,7 +325,8 @@
     <MESSAGE value="Practical task 1.1" />
     <MESSAGE value="Practical task 1.1 на проверку" />
     <MESSAGE value="Practical task 1.2 на проверку" />
-    <option name="LAST_COMMIT_MESSAGE" value="Practical task 1.2 на проверку" />
+    <MESSAGE value="Practical task 1.3 на проверку" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practical task 1.3 на проверку" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
