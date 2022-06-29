@@ -225,24 +225,27 @@
     </configuration>
     <list>
       <item itemvalue="Python.Practical task 1.1" />
-      <item itemvalue="Python.main" />
       <item itemvalue="Python.Practical task 1.4" />
       <item itemvalue="Python.Practical task 1.5" />
       <item itemvalue="Python.Practical task 1.6" />
       <item itemvalue="Python.Practical task 1.7" />
       <item itemvalue="Python.Practical task 2.1" />
+      <item itemvalue="Python.main" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Practical task 2.1" />
         <item itemvalue="Python.Practical task 1.7" />
         <item itemvalue="Python.Practical task 1.4" />
         <item itemvalue="Python.Practical task 1.6" />
         <item itemvalue="Python.Practical task 1.5" />
+        <item itemvalue="Python.Practical task 2.1" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\matro\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="079c13eb-0c7c-47ca-8dde-50cbeb731976" name="Changes" comment="" />
