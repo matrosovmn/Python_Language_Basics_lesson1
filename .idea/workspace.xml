@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="079c13eb-0c7c-47ca-8dde-50cbeb731976" name="Changes" comment="Practical task 5.3 - а что так можно было :)">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="079c13eb-0c7c-47ca-8dde-50cbeb731976" name="Changes" comment="Practical task 5.4 - на проверку" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -472,7 +470,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657682913464</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Practical task 5.4 - на проверку">
+      <created>1657693507089</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1657693507089</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -517,6 +522,7 @@
     <MESSAGE value="Practical task 5.1 на проверку" />
     <MESSAGE value="Practical task 5.2 - улёт" />
     <MESSAGE value="Practical task 5.3 - а что так можно было :)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Practical task 5.3 - а что так можно было :)" />
+    <MESSAGE value="Practical task 5.4 - на проверку" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practical task 5.4 - на проверку" />
   </component>
 </project>
