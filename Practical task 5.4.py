@@ -14,4 +14,4 @@ with open('5.4.duplicate.txt', 'w', encoding='utf-8') as dup:
         translator = Translator()
         result = translator.translate(text, src='en', dest='ru')
         print(result.text)
-        dup.write(f'{str([line.replace(line.split()[0], result.get(line.split()[0])) for line in orig])}')
+        dup.write(result.text)
