@@ -31,9 +31,9 @@ class Suit(Clothes):
         return round(self.param * 2) + 0.3
 
 
-V = Coat(50)
-H = Suit(1.74)
+v = Coat(50)
+h = Suit(1.74)
 
-print(f'Расход ткани для пальто - {V.consumption}')
-print(f'Расход ткани для костюма - {H.consumption}')
-print(f'Общий расход ткани - {V+H}')
+print(f'Расход ткани для пальто - {v.consumption}')
+print(f'Расход ткани для костюма - {h.consumption}')
+print(f'Общий расход ткани - {v+h}')
